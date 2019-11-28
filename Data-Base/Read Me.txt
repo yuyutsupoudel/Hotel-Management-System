@@ -1,0 +1,5 @@
+How to import database into xampp:
+xampp version: v3.2.4
+step 1: Create a new database called "hms"
+step 2: Select import in top right side
+Step 3: Select file and click go at last
