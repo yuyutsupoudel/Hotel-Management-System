@@ -103,7 +103,7 @@ public class GeneralMenu extends javax.swing.JFrame {
         jPanel7.setBackground(new java.awt.Color(204, 255, 255));
         jPanel7.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(255, 153, 153), 3, true));
 
-        jLabel1.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Dialog", 1, 24)); // NOI18N
         jLabel1.setText("BHARATPUR HOTEL MANAGEMENT SYSTEM");
 
         jButton1.setText("LogOut");
@@ -382,7 +382,7 @@ public class GeneralMenu extends javax.swing.JFrame {
         jPanel1.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(255, 153, 153), 3));
         jPanel1.setPreferredSize(new java.awt.Dimension(425, 480));
 
-        jLabel10.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
+        jLabel10.setFont(new java.awt.Font("Dialog", 1, 18)); // NOI18N
         jLabel10.setText("BHARATPUR HOTEL MANAGEMENT  SYSTEM");
         jLabel10.setToolTipText("");
 

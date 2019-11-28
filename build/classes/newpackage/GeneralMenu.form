@@ -177,7 +177,7 @@
                     <Component class="javax.swing.JLabel" name="jLabel1">
                       <Properties>
                         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                          <Font name="Times New Roman" size="24" style="1"/>
+                          <Font name="Dialog" size="24" style="1"/>
                         </Property>
                         <Property name="text" type="java.lang.String" value="BHARATPUR HOTEL MANAGEMENT SYSTEM"/>
                       </Properties>
@@ -630,7 +630,7 @@
                     <Component class="javax.swing.JLabel" name="jLabel10">
                       <Properties>
                         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                          <Font name="Times New Roman" size="18" style="1"/>
+                          <Font name="Dialog" size="18" style="1"/>
                         </Property>
                         <Property name="text" type="java.lang.String" value="BHARATPUR HOTEL MANAGEMENT  SYSTEM"/>
                         <Property name="toolTipText" type="java.lang.String" value=""/>

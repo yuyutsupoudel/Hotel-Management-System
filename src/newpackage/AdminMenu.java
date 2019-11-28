@@ -189,7 +189,7 @@ public class AdminMenu extends javax.swing.JFrame {
         jPanel6.setBackground(new java.awt.Color(153, 255, 255));
         jPanel6.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(255, 153, 153), 3, true));
 
-        jLabel1.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Dialog", 1, 18)); // NOI18N
         jLabel1.setText("BHARATPUR HOTEL MANAGEMENT  SYSTEM");
 
         jPanel22.setBackground(new java.awt.Color(102, 204, 255));
@@ -816,7 +816,7 @@ public class AdminMenu extends javax.swing.JFrame {
         jPanel10.setBackground(new java.awt.Color(153, 255, 255));
         jPanel10.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(255, 153, 153), 3, true));
 
-        jLabel23.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
+        jLabel23.setFont(new java.awt.Font("Dialog", 1, 24)); // NOI18N
         jLabel23.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel23.setText("BHARATPUR HOTEL MANAGEMENT SYSTEM");
 
